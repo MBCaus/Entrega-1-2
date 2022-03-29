@@ -1,0 +1,77 @@
+/*************************************************************************************************/
+                                            /* Ex 1 */
+
+.div_primaria{
+    background-color: red; 
+    height: 50px; 
+    border: solid green 2px;
+    margin-top: 100px;
+}
+
+.div_secundaria{
+    background-color: black;
+    height: 50px;
+    width: 50%;
+    border: dashed red 10px;
+    margin: 100px 100px;
+}
+
+/***************************************************************************************************/
+                                            /* Ex 2 */
+
+.div_1ex2{
+    background-color: rgb(200, 162, 200);
+    height: 200px;
+    width: 100%;
+    display: flex;
+    padding: 20px;
+}
+
+.div_2ex2{
+    background-color: #ffcbdb;
+    width: 250px;
+    border: solid red 20px;
+}
+
+.div_3ex2{
+    background-color: rgb(9, 231, 220);
+    height: 88%;
+    width: 30%;
+}
+
+/*****************************************************************************************************/
+                                            /* Ex 3 */
+
+.corpo{
+    background-color: #cababa;
+}
+
+.div_1ex3{
+    background-color: white;
+    height: 300px;
+    width: 50%;
+    border: dotted black 10px;
+    display: flex table-column;
+    padding: 20px;
+}
+
+.div_2ex3{
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.div_3ex3{
+    background-color: rgb(233, 130, 3);
+    height: 100px;
+    width: 30%;
+}
+
+.div_4ex3{
+    background-color: rgb(1, 129, 1);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
